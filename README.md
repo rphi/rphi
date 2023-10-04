@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
+[![@rphi's Holopin board](https://holopin.me/rphi)](https://holopin.io/@rphi)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning React and Typescript
